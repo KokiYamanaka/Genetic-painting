@@ -2,29 +2,19 @@
 # Genetic painting 
 **Description**
 This is a 1 month large scale project on applied AI. We used genetic algorithm to generate a specific art style. 
-The work mainly consists of 
+<br> The work mainly consists of 
 - conduct research on previous work
 - writing a project proposal 
 - writing, fine-tuning, modifying the actual genetic algorithm code specialized on art generation 
 - documented the process of project, evaluation on results 
 - conduct a presentation in front of 30-35 people 
 
-
-I have posted some assignments.
-
-## Files 
-Activity - this file is contains graded exercise questions to practice some concepts
-- A2 - Query from database
-- A6 - Procedures/Functions
-- A7 - Triggers
-
-Assignments - this file contains large scaled problems
-- assignment 1 - Book rental database 
-
-Project case study
-- assignment 2 - Project case study : Car rental 
-- file description = project code.sql: actual code | project documented.pdf : actual code documented with specific task | project task.docx : project task description
-
+## Files description  
+- project documentation.pdf : 
+- genetic_painting.ipynb :  
+- FirstIteration.ipynb :
+- project proposal.pdf : describes detailed problem description, proposed methods, timeline, risk disclosure. 
+ 
 ## Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
 2.	The Relational Database Model (Chapter 4 and Appendix A)
