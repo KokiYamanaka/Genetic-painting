@@ -11,7 +11,7 @@ This is a 1 month large scale project on applied AI. We used genetic algorithm t
 
 ## Files description  
 - project documentation.pdf : final documentation of this project. 
-- genetic_painting.ipynb :  final code 
+- genetic_painting.py :  final code 
 - FirstIteration.ipynb : code that initially wrote out 
 - project proposal.pdf : describes detailed problem description, proposed methods, timeline, risk disclosure. 
 - presentation.pptx : presentation slide discussing the methods used, process, etc on going genearate art
