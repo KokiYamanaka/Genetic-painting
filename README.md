@@ -22,7 +22,7 @@ My project purpose is to use genetic algorithm model to place simple geometric s
 #### Input and output 
 ![image](https://user-images.githubusercontent.com/107101940/235031586-e9fecd4c-5190-4f32-9dbe-33f001326122.png)
 
-#### Mimicking Evolutionary process to generate art
+#### A part of mimicking Evolutionary process to generate art
 ![15000](https://user-images.githubusercontent.com/107101940/235032001-af7b5dbd-56f3-4d0f-96e2-9c8522a266e3.PNG)
 
 #### Some iteration getting closer to target image 
