@@ -31,7 +31,6 @@ My project purpose is to use genetic algorithm model to place simple geometric s
 ### 1st trial
 ![Picture1](https://user-images.githubusercontent.com/107101940/235032622-1bb276d4-329f-401c-8cd5-530cfad216d5.png)
 
-## 
 
 ## Comments from professor: 
 ![image](https://user-images.githubusercontent.com/107101940/235033123-e94590ea-55c7-4d3e-b121-3ca126d38a9a.png)
